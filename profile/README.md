@@ -4,4 +4,4 @@
 
 # Accessibit
 
-## Making the Web Accessible to all
+Making the Web Accessible to all
