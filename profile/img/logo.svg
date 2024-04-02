@@ -4,7 +4,7 @@
       <style>
         @media (prefers-color-scheme: dark) {
         img {
-        filter: invert(1);
+        filter: brightness(0) invert(1);
         background: none;
         }
         }
