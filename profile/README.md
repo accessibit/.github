@@ -2,4 +2,6 @@
   <img width="400" src="./profile/img/logo.svg" alt="Accessibit">
 </div>
 
-This is a cool description!
+# Accessibit
+
+## Making the Web Accessible to all
